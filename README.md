@@ -29,6 +29,11 @@ Make sure you have the following installed on your system:
     ```bash
     docker compose up
     ```
+
+    Once the docker compose up is done you will find the running app in your browser under
+    ```bash
+       https://localhost:5173/
+    ```
     
     Once you want to stop your project you can just hit `CTRL+C` and it stopps
    
