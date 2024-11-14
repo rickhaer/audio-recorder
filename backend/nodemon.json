@@ -1,0 +1,7 @@
+{
+    "watch": ["server.js"],
+    "ext": "js,json",
+    "exec": "node --inspect server.js",
+    "legacyWatch": true
+  }
+  
